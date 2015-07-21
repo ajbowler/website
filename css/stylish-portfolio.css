@@ -20,6 +20,7 @@ body {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
+    color: black;
 }
 
 .text-vertical-center h1 {
@@ -166,6 +167,27 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    background-color: #007777;
+    color: white;
+}
+
+/* Skills */
+
+#skills {
+    background-color: #006666;
+}
+
+/* Projects */
+
+#projects {
+    background-color: #005555;
+}
+
+/* Music */
+
+#music {
+    background-color: #004444;
+    color: white;
 }
 
 /* Services */
@@ -207,20 +229,12 @@ hr.small {
     margin: 0 auto;
 }
 
-/* Music */
-.music {
-    padding: 50px 0;
-    background-color: maroon;
-}
 
 .musicText {
-    color: gold;
+    color: white;
     padding-bottom: 30px;
 }
 
-.musicItem {
-
-}
 /* Call to Action */
 
 .call-to-action {
@@ -247,4 +261,6 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    background-color: #003333;
+    color: white;
 }
