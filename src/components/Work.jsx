@@ -6,7 +6,7 @@ export default () => (
     <div className="content">
       <p>
         I currently work at <strong>Hayneedle</strong> in Omaha, NE. I write <strong>React and Node</strong>,
-        with all the fun toys like <strong>Redux</strong> and am currently helping them kill of their old
+        with all the fun toys like <strong>Redux</strong> and am currently helping them kill off their old
         ColdFusion site.
       </p>
       <p>
