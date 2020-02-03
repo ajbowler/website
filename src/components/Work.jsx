@@ -4,20 +4,15 @@ export default () => (
   <div className="column">
     <div className="subtitle is-3">Work</div>
     <div className="content">
+      <div className="subtitle is-5">Hayneedle</div>
       <p>
-        I currently work at <strong>Hayneedle</strong> in Omaha, NE. I write <strong>React and Node</strong>,
-        with all the fun toys like <strong>Redux</strong> and am currently helping them kill off their old
-        ColdFusion site.
+        I was a Senior Software Engineer, helping replatform a legacy Coldfusion nightmare into a modern platform built on <strong>React, Node, and Java</strong>
+        with all the fun toys like <strong>Redux, Spring, JPA, and GraphQL</strong>, among others.
       </p>
       <p>
-        I've helped them convert entire pages over to React and consume their in-house REST APIs. These
-        have ranged from simple CRUD pages like a user's favorites page to a more vital piece of the site,
-        such as the <a href="https://www.hayneedle.com/cart/">cart page</a> and all ways a user to can add
-        a product to their cart.
+        I've helped them convert entire pages over to React and consume their in-house REST APIs, and even an GraphQL integration towards the end of my time there. Notable projects include,
+        but are not limited to: Checkout redesign, Apple Pay integration, and California Consumer Privacy Act compliance.
       </p>
-    </div>
-    <div className="subtitle is-4">Other gigs:</div>
-    <div className="content">
       <div className="subtitle is-5">Cerner</div>
       <p>
         I worked at Cerner for a couple years prior to Hayneedle, fresh out of college. I was full stack there,
