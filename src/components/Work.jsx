@@ -4,6 +4,11 @@ export default () => (
   <div className="column">
     <div className="subtitle is-3">Work</div>
     <div className="content">
+      <div className="subtitle is-5">Client Resources</div>
+      <p>
+        I'm currently a consultant at Client Resources, Inc. lending my React expertise to an otherwise Angular-focused shop. I'm currently
+        building a single-page-app in an AWS environment with authentication powered by Amazon Cognito and a Python backend.
+      </p>
       <div className="subtitle is-5">Hayneedle</div>
       <p>
         I was a Senior Software Engineer, helping replatform a legacy Coldfusion nightmare into a modern platform built on <strong>React, Node, and Java</strong>
