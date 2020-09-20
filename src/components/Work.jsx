@@ -4,15 +4,14 @@ export default () => (
   <div className="column">
     <div className="subtitle is-3">Work</div>
     <div className="content">
-      <div className="subtitle is-5">Client Resources</div>
+      <div className="subtitle is-5">John Deere</div>
       <p>
-        I'm currently a consultant at Client Resources, Inc. lending my React expertise to an otherwise Angular-focused shop. I'm currently
-        building a single-page-app in an AWS environment with authentication powered by Amazon Cognito and a Python backend.
+        I'm currently a consultant at John Deere Financial, developing modern financing software for John Deere dealers in <strong>React, Spring Boot, and AWS.</strong>
       </p>
       <div className="subtitle is-5">Hayneedle</div>
       <p>
-        I was a Senior Software Engineer, helping replatform a legacy Coldfusion nightmare into a modern platform built on <strong>React, Node, and Java</strong>
-        with all the fun toys like <strong>Redux, Spring, JPA, and GraphQL</strong>, among others.
+        I was a Senior Software Engineer, helping replatform a legacy Coldfusion nightmare into a modern platform built on <strong>React, Node, and Java</strong> with 
+        all the fun toys like <strong>Redux, Spring, JPA, and GraphQL</strong>, among others.
       </p>
       <p>
         I've helped them convert entire pages over to React and consume their in-house REST APIs, and even an GraphQL integration towards the end of my time there. Notable projects include,
