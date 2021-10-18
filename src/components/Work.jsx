@@ -6,7 +6,7 @@ export default () => (
     <div className="content">
       <div className="subtitle is-5">John Deere</div>
       <p>
-        I'm currently a consultant at John Deere Financial, developing modern financing software for John Deere dealers in <strong>React, Spring Boot, and AWS.</strong>
+        I'm currently a Senior Software Engineer at John Deere Financial, developing modern financing software for John Deere dealers in <strong>React, Spring Boot, and AWS.</strong>
       </p>
       <div className="subtitle is-5">Hayneedle</div>
       <p>

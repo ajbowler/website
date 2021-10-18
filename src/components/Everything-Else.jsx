@@ -6,7 +6,7 @@ export default () => (
     <div className="content">
       <p>I enjoy eating spicy and unhealthy foods, traveling, watching baseball, and being with my wife, family, and friends.</p>
       <p>Hit me up if you want to network. Contact info at the bottom.</p>
-      <p><a href="Resume.pdf" target="_blank" rel="noopener noreferrer">Here's a copy of my resume</a>. Last updated: September 2020</p>
+      <p><a href="Resume.pdf" target="_blank" rel="noopener noreferrer">Here's a copy of my resume</a>. Last updated: October 2021</p>
     </div>
   </div>
 );
